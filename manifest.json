@@ -1,0 +1,50 @@
+{
+  "manifest_version": 2.0,
+  "name": "Super'Wide",
+  "short_name": "Super Wide",
+  "id": "super_wide",
+  "version": "1.0"
+  "author": "Anwr Alswdi"
+  "start_url": "https://ymnoid-pro.blogspot.com",
+  "display": "standalone",
+  "background_color": "#0b5389",
+  "theme_color": "#0b5389",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://cdn.statically.io/gh/ymnoid-pro/app-ymnoid-pro/main/icon-72x72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "https://cdn.statically.io/gh/ymnoid-pro/app-ymnoid-pro/main/icon-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "https://cdn.statically.io/gh/ymnoid-pro/app-ymnoid-pro/main/icon-128x128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "https://cdn.statically.io/gh/ymnoid-pro/app-ymnoid-pro/main/icon-144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "https://cdn.statically.io/gh/ymnoid-pro/app-ymnoid-pro/main/icon-152x152.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "https://cdn.statically.io/gh/ymnoid-pro/app-ymnoid-pro/main/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn.statically.io/gh/ymnoid-pro/app-ymnoid-pro/main/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
