@@ -1,7 +1,10 @@
 {
-  "name": "Ymnoid'Pro",
-  "short_name": "Ymnoid",
-  "id": "https://ymnoid-pro.blogspot.com",
+  "manifest_version": 2.0,
+  "name": "Super'Wide",
+  "short_name": "Super Wide",
+  "id": "super_wide",
+  "version": "1.0"
+  "author": "Anwr Alswdi"
   "start_url": "https://ymnoid-pro.blogspot.com",
   "display": "standalone",
   "background_color": "#0b5389",
